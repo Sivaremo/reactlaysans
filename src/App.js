@@ -15,6 +15,7 @@ function App() {
     <Router> {/* 👈 Add your GitHub repo name here */}
       <MetaTags />
       <Navbar />
+      
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />

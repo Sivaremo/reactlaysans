@@ -12,7 +12,7 @@ import CareerForm from './pages/CareerForm';
 
 function App() {
   return (
-    <Router> {/* 👈 Add your GitHub repo name here */}
+    <Router basename="/laysans--react"> {/* ✅ This is the fix */}
       <MetaTags />
       <Navbar />
       <div className="App">

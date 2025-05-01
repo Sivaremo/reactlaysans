@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.c394c567.css",
-    "main.js": "./static/js/main.9ef65a1b.js",
-    "static/js/453.60caa125.chunk.js": "./static/js/453.60caa125.chunk.js",
-    "static/media/bg.jpg": "./static/media/bg.4a9d46f64a42964885d4.jpg",
-    "static/media/Guest-with-camera-gear-on-safari-in-Botswana-Pangolin-Photo-Safaris-scaled.png": "./static/media/Guest-with-camera-gear-on-safari-in-Botswana-Pangolin-Photo-Safaris-scaled.38d8286fcc73279f3d68.png",
-    "static/media/bg1.jpg": "./static/media/bg1.1bc392a8fd745f9615ac.jpg",
-    "static/media/nft-3-1-1440x1080.jpg": "./static/media/nft-3-1-1440x1080.00bf3f931c1daef964b4.jpg",
-    "static/media/morocco-tangier-photography-camera.jpg": "./static/media/morocco-tangier-photography-camera.b649a7deedd2be9759b8.jpg",
-    "index.html": "./index.html",
-    "main.c394c567.css.map": "./static/css/main.c394c567.css.map",
-    "main.9ef65a1b.js.map": "./static/js/main.9ef65a1b.js.map",
-    "453.60caa125.chunk.js.map": "./static/js/453.60caa125.chunk.js.map"
+    "main.css": "/laysans--react/static/css/main.9246e245.css",
+    "main.js": "/laysans--react/static/js/main.1c1d2cff.js",
+    "static/js/453.60caa125.chunk.js": "/laysans--react/static/js/453.60caa125.chunk.js",
+    "static/media/bg.jpg": "/laysans--react/static/media/bg.4a9d46f64a42964885d4.jpg",
+    "static/media/Guest-with-camera-gear-on-safari-in-Botswana-Pangolin-Photo-Safaris-scaled.png": "/laysans--react/static/media/Guest-with-camera-gear-on-safari-in-Botswana-Pangolin-Photo-Safaris-scaled.38d8286fcc73279f3d68.png",
+    "static/media/bg1.jpg": "/laysans--react/static/media/bg1.1bc392a8fd745f9615ac.jpg",
+    "static/media/nft-3-1-1440x1080.jpg": "/laysans--react/static/media/nft-3-1-1440x1080.00bf3f931c1daef964b4.jpg",
+    "static/media/morocco-tangier-photography-camera.jpg": "/laysans--react/static/media/morocco-tangier-photography-camera.b649a7deedd2be9759b8.jpg",
+    "index.html": "/laysans--react/index.html",
+    "main.9246e245.css.map": "/laysans--react/static/css/main.9246e245.css.map",
+    "main.1c1d2cff.js.map": "/laysans--react/static/js/main.1c1d2cff.js.map",
+    "453.60caa125.chunk.js.map": "/laysans--react/static/js/453.60caa125.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c394c567.css",
-    "static/js/main.9ef65a1b.js"
+    "static/css/main.9246e245.css",
+    "static/js/main.1c1d2cff.js"
   ]
 }

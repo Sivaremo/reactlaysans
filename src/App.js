@@ -13,7 +13,7 @@ import NotFound from './pages/NotFound'; // Import a NotFound component
 
 function App() {
   return (
-    <Router basename="/laysans--react">
+    <Router >
       <MetaTags />
       <Navbar />
       <div className="App">

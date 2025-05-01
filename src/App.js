@@ -13,7 +13,7 @@ import NotFound from './pages/NotFound'; // Import a NotFound component
 
 function App() {
   return (
-    <Router >
+    <Router basename={import.meta.env.BASE_URL} >
       <MetaTags />
       <Navbar />
       <div className="App">
